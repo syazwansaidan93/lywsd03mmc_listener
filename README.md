@@ -1,5 +1,5 @@
 
-# Bleak Direct LYWSD03MMC Poller (Configurable) - Documentation
+# Bleak Direct LYWSD03MMC Poller
 
 This document provides a comprehensive overview of the Python script designed to connect to Xiaomi LYWSD03MMC (and potentially LYWSD02MMC) Bluetooth Low Energy (BLE) temperature and humidity sensors, poll their data, and output it in a JSON-like format. The script is designed for resource-constrained embedded devices, focusing on compactness and efficiency.
 
